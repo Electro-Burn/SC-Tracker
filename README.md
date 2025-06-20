@@ -12,3 +12,5 @@ Select Options > Webhook > Set Webhook.
 Paste webhook sent to you by Discord Org Leadership and hit OK
 
 You can disable/enable the output to discord via the button on the right.
+
+Launch SC Tracker at any point while playing SC and it will start tracking events.
